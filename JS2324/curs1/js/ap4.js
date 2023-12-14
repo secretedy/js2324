@@ -1,0 +1,1 @@
+alert("Mesaj afisat din fiser extern")
